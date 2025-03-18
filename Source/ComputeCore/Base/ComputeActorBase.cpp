@@ -2,6 +2,8 @@
 
 
 #include "Base/ComputeActorBase.h"
+
+#include "Engine/World.h"
 #include "Utils/ComputeFunctionLibrary.h"
 
 // Sets default values

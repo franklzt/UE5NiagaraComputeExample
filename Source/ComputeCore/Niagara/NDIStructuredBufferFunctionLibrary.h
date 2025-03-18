@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "NiagaraDataInterfaceStructuredBuffer.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "NDIStructuredBufferFunctionLibrary.generated.h"
 

@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "RHIFwd.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "NDIStructuredBufferLegacyFunctionLibrary.generated.h"
 

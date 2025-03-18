@@ -6,6 +6,7 @@
 #include "Settings/ComputeExampleSettings.h"
 #include "NiagaraDataInterfaceArrayFunctionLibrary.h"
 #include "NiagaraFunctionLibrary.h"
+#include "Engine/World.h"
 
 //#include "NiagaraDataInterfaceArrayImpl.h"
 //#include "NiagaraDataInterfaceArrayImplHelpers.h"

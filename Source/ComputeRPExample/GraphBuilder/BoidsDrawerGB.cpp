@@ -3,6 +3,7 @@
 #include "ComputeShaders/BoidsRPDrawerCS.h"
 #include "PixelShaders/BoidsDrawerPS.h"
 #include "CommonRenderResources.h"
+#include "RHIStaticStates.h"
 #include "TextureResource.h"
 
 #define BoidsDrawerExample_ThreadsPerGroup 32

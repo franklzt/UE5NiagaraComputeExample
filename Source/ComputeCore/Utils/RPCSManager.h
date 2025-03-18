@@ -1,6 +1,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "RenderCommandFence.h"
 #include "Utils/ManagedRPCSInterface.h"
 #include "Subsystems/WorldSubsystem.h"
 #include "Tickable.h"

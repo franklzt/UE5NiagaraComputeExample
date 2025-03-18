@@ -1,7 +1,10 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "ComputeCore.h"
+
+#include "ShaderCore.h"
 #include "Interfaces/IPluginManager.h"
+#include "Misc/Paths.h"
 
 #define LOCTEXT_NAMESPACE "FComputeCoreModule"
 
